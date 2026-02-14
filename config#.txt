@@ -1,0 +1,8 @@
+Name server - GeoMeo
+setmaxply - 100
+
+Admin - OneTwo
+Owner - Diddy
+ip - 188.127.241.74:2906
+
+map - standard
